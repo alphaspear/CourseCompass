@@ -2,8 +2,6 @@ package com.CourseCompass.DatasourceAgent.Entity.mapper;
 
 import com.CourseCompass.DatasourceAgent.Entity.CourseInfo;
 import com.CourseCompass.DatasourceAgent.Entity.dto.CourseInfoRecord;
-import org.springframework.context.annotation.Bean;
-
 
 public class CourseInfoMapper {
 
@@ -14,7 +12,7 @@ public class CourseInfoMapper {
                 String.valueOf(courseInfo.getOverallRating()), // Convert Float to String
                 courseInfo.getCourseSubject(),
                 courseInfo.getInstructors(),
-                (int) (Math.round(courseInfo.getVideoDurationHr() * 100.0) / 100.0), // Rounded to two decimal places
+                (int) (Math.round(courseInfo.getVideoDurationHr() * 100.0) / 100.0), // Round to 2 decimal places if needed
                 courseInfo.getIsPaid(),
                 String.valueOf(courseInfo.getPrice()) // Convert Double to String
         );
