@@ -2,22 +2,21 @@ package com.CourseCompass.DatasourceAgent.Entity.mapper;
 
 import com.CourseCompass.DatasourceAgent.Entity.CourseInfo;
 import com.CourseCompass.DatasourceAgent.Entity.dto.CourseInfoRecord;
-import org.mapstruct.Mapper;
+import org.springframework.context.annotation.Bean;
 
-@Mapper(componentModel = "spring")
-public interface CourseInfoMapper {
-    CourseInfo dtoToCourseInfo(CourseInfoRecord dto);
 
-    default CourseInfoRecord courseInfoToDto(CourseInfo courseInfo) {
+public class CourseInfoMapper {
+
+    public static CourseInfoRecord toDto(CourseInfo courseInfo) {
         return new CourseInfoRecord(
                 courseInfo.getCourseId(),
-                courseInfo.getTitle(),
-                courseInfo.getOverallRating().toString(),
-                courseInfo.getTopic(),
-                courseInfo.getInstructor(),
-                courseInfo.getVideoDurationHr(),
+                courseInfo.getCourseTitle(),
+                String.valueOf(courseInfo.getOverallRating()), // Convert Float to String
+                courseInfo.getCourseSubject(),
+                courseInfo.getInstructors(),
+                (int) (Math.round(courseInfo.getVideoDurationHr() * 100.0) / 100.0), // Rounded to two decimal places
                 courseInfo.getIsPaid(),
-                courseInfo.getPrice().toString()
+                String.valueOf(courseInfo.getPrice()) // Convert Double to String
         );
     }
 }

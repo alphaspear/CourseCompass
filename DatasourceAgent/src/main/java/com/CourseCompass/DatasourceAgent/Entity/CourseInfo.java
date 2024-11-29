@@ -13,20 +13,35 @@ public class CourseInfo {
     @Column(name = "course_id", nullable = false)
     private Integer courseId;
 
-    @Column(name = "title", columnDefinition = "TEXT")
-    private String title;
+    @Column(name = "institution", columnDefinition = "TEXT")
+    private String institution;
 
-    @Column(name = "overall_rating")
-    private Double overallRating;
+    @Column(name = "course_number", columnDefinition = "TEXT")
+    private String courseNumber;
 
-    @Column(name = "topic", columnDefinition = "TEXT")
-    private String topic;
+    @Column(name = "launch_date", columnDefinition = "TEXT")
+    private String launchDate;
 
-    @Column(name = "instructor", columnDefinition = "TEXT")
-    private String instructor;
+    @Column(name = "course_title", columnDefinition = "TEXT")
+    private String courseTitle;
+
+    @Column(name = "instructors", columnDefinition = "TEXT")
+    private String instructors;
+
+    @Column(name = "course_subject", columnDefinition = "TEXT")
+    private String courseSubject;
+
+    @Column(name = "enrolled")
+    private Integer enrolled;
+
+    @Column(name = "review")
+    private Integer review;
+
+    @Column(name = "total_course_duration_days")
+    private Integer totalCourseDurationDays;
 
     @Column(name = "video_duration_hr")
-    private Integer videoDurationHr;
+    private Float videoDurationHr;
 
     @Column(name = "is_paid", columnDefinition = "TEXT")
     private String isPaid;
@@ -34,7 +49,14 @@ public class CourseInfo {
     @Column(name = "price")
     private Double price;
 
+    @Column(name = "overall_rating")
+    private Float overallRating;
 
+    @Column(name = "difficulty_level", columnDefinition = "TEXT")
+    private String difficultyLevel;
+
+    @Column(name = "source_platform", columnDefinition = "TEXT")
+    private String sourcePlatform;
 
     // Getters and Setters
 
@@ -46,43 +68,83 @@ public class CourseInfo {
         this.courseId = courseId;
     }
 
-    public String getTitle() {
-        return title;
+    public String getInstitution() {
+        return institution;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
+    public void setInstitution(String institution) {
+        this.institution = institution;
     }
 
-    public Double getOverallRating() {
-        return overallRating;
+    public String getCourseNumber() {
+        return courseNumber;
     }
 
-    public void setOverallRating(Double overallRating) {
-        this.overallRating = overallRating;
+    public void setCourseNumber(String courseNumber) {
+        this.courseNumber = courseNumber;
     }
 
-    public String getTopic() {
-        return topic;
+    public String getLaunchDate() {
+        return launchDate;
     }
 
-    public void setTopic(String topic) {
-        this.topic = topic;
+    public void setLaunchDate(String launchDate) {
+        this.launchDate = launchDate;
     }
 
-    public String getInstructor() {
-        return instructor;
+    public String getCourseTitle() {
+        return courseTitle;
     }
 
-    public void setInstructor(String instructor) {
-        this.instructor = instructor;
+    public void setCourseTitle(String courseTitle) {
+        this.courseTitle = courseTitle;
     }
 
-    public Integer getVideoDurationHr() {
+    public String getInstructors() {
+        return instructors;
+    }
+
+    public void setInstructors(String instructors) {
+        this.instructors = instructors;
+    }
+
+    public String getCourseSubject() {
+        return courseSubject;
+    }
+
+    public void setCourseSubject(String courseSubject) {
+        this.courseSubject = courseSubject;
+    }
+
+    public Integer getEnrolled() {
+        return enrolled;
+    }
+
+    public void setEnrolled(Integer enrolled) {
+        this.enrolled = enrolled;
+    }
+
+    public Integer getReview() {
+        return review;
+    }
+
+    public void setReview(Integer review) {
+        this.review = review;
+    }
+
+    public Integer getTotalCourseDurationDays() {
+        return totalCourseDurationDays;
+    }
+
+    public void setTotalCourseDurationDays(Integer totalCourseDurationDays) {
+        this.totalCourseDurationDays = totalCourseDurationDays;
+    }
+
+    public Float getVideoDurationHr() {
         return videoDurationHr;
     }
 
-    public void setVideoDurationHr(Integer videoDurationHr) {
+    public void setVideoDurationHr(Float videoDurationHr) {
         this.videoDurationHr = videoDurationHr;
     }
 
@@ -100,5 +162,29 @@ public class CourseInfo {
 
     public void setPrice(Double price) {
         this.price = price;
+    }
+
+    public Float getOverallRating() {
+        return overallRating;
+    }
+
+    public void setOverallRating(Float overallRating) {
+        this.overallRating = overallRating;
+    }
+
+    public String getDifficultyLevel() {
+        return difficultyLevel;
+    }
+
+    public void setDifficultyLevel(String difficultyLevel) {
+        this.difficultyLevel = difficultyLevel;
+    }
+
+    public String getSourcePlatform() {
+        return sourcePlatform;
+    }
+
+    public void setSourcePlatform(String sourcePlatform) {
+        this.sourcePlatform = sourcePlatform;
     }
 }
