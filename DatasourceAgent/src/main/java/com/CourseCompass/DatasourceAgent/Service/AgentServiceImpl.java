@@ -30,8 +30,9 @@ public class AgentServiceImpl implements AgentService {
 
             return newAgent;
         } else {
-            throw new IllegalStateException("Agent is already initialized");
+            System.out.println("Agent is already initialized with id " + agentInfoRepo.findAll().iterator().next().getAgentUniqueId());
         }
+        return null;
     }
 
 
