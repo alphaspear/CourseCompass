@@ -1,0 +1,291 @@
+Institution,Course Number,Launch Date,Course Title,Instructors,Course Subject,Enrolled,Review,Total Course Duration (Days),Is Paid,Difficulty Level
+MITx,6.002x,2012,Circuits and Electronics,Khurram Afridi,"Science, Technology, Engineering, and Mathematics",36105,3003,419,No,Moderate
+MITx,6.00x,2012,Introduction to Computer Science and Programming,"Eric Grimson, John Guttag, Chris Terman",Computer Science,62709,5783,884,No,Low
+MITx,3.091x,2012,Introduction to Solid State Chemistry,Michael Cima,"Science, Technology, Engineering, and Mathematics",16663,2082,228,No,Low
+HarvardX,CS50x,2012,Introduction to Computer Science,"David Malan, Nate Hardison, Rob Bowden, Tommy MacWilliam, Zamyla Chan",Computer Science,129400,1439,221,No,Low
+HarvardX,PH207x,2012,Health in Numbers: Quantitative Methods in Clinical and Public Health Research,"Earl Francis Cook, Marcello Pagano","Government, Health, and Social Science",52521,5058,804,No,Low
+MITx,6.00x,2013,Introduction to Computer Science and Programming,Larry Rudolph,Computer Science,65380,3313,639,No,Low
+MITx,3.091x,2013,Introduction to Solid State Chemistry,Michael Cima,"Science, Technology, Engineering, and Mathematics",8270,547,68,No,Low
+MITx,14.73x,2013,The Challenges of Global Poverty,"Esther Duflo, Abhijit Banerjee","Government, Health, and Social Science",29044,4607,279,No,Low
+MITx,8.02x,2013,Electricity and Magnetism,"Walter Lewin, John Belcher, Peter Dourmashkin, Ricardo Abbate, Saif Rayyan, George Stephans, Isaac Chuang","Science, Technology, Engineering, and Mathematics",39178,1722,380,No,Moderate
+HarvardX,ER22x,2013,Justice,Michael Sandel,"Humanities, History, Design, Religion, and Education",58779,5438,187,No,Low
+MITx,6.002x,2013,Circuits and Electronics,Tania Khanna,"Science, Technology, Engineering, and Mathematics",16752,1103,149,No,Moderate
+MITx,7.00x,2013,Introduction to Biology: Secret of Life,"Eric Lander, Graham Walker, Brian White, Michelle, Mischke, Mary Ellen Wiltrout","Science, Technology, Engineering, and Mathematics",28535,3242,477,No,Low
+HarvardX,CB22x,2013,The Ancient Greek Hero,"Greg Nagy, L.Muellner","Humanities, History, Design, Religion, and Education",25873,1395,141,No,Low
+MITx,2.01x,2013,Elements of Structures,"Simona Socrate, Alexie Kolpak","Science, Technology, Engineering, and Mathematics",8736,817,85,No,Moderate
+HarvardX,PH278x,2013,Human Health and Global Environmental Change,"Aaron Bernstein, Jack Spengler","Government, Health, and Social Science",23179,2743,111,No,Moderate
+MITx,8.MREV,2013,Mechanics ReView,"David Pritchard, Colin Fredericks","Science, Technology, Engineering, and Mathematics",15350,1033,146,No,Low
+MITx,3.091x,2013,Introduction to Solid State Chemistry,Michael Cima,"Science, Technology, Engineering, and Mathematics",11961,382,95,No,Low
+HarvardX,CB22.1x,2013,The Ancient Greek Hero,Greg Nagy,"Humanities, History, Design, Religion, and Education",17604,728,66,No,Low
+MITx,8.01x,2013,Classical Mechanics,Walter Lewin,"Science, Technology, Engineering, and Mathematics",35903,1822,453,No,High
+MITx,7.00x,2013,Introduction to Biology: Secret of Life,Eric Lander,"Science, Technology, Engineering, and Mathematics",24707,2086,331,No,Low
+MITx,3.086x,2013,Innovation and Commercialization,Gene Fitzgerald,"Government, Health, and Social Science",25619,616,101,No,Moderate
+MITx,4.605x,2013,Global Architecture,Mark Jarzombek,"Humanities, History, Design, Religion, and Education",17077,1486,139,No,Moderate
+HarvardX,HKS211.1x,2013,"Central Challenges in American National Security, Strategy and the Press: An Introduction","Graham Allison, David Sanger","Government, Health, and Social Science",5857,0,13,No,High
+MITx,24.00x,2013,"Introduction to Philosophy: God, Knowledge and Consciousness",Caspar Hare,"Humanities, History, Design, Religion, and Education",34371,1893,154,No,Moderate
+HarvardX,SPU27x,2013,Science and Cooking: From Haute Cuisine to Soft Matter Science,Michael Brenner,"Science, Technology, Engineering, and Mathematics",60555,1846,400,No,Moderate
+HarvardX,HSPH-HMS214x,2013,Fundamentals of Clinical Trials,"James Ware, Elliott Antman, Julie Buring, Graham McMahon, Marcia Testa, Robert Truog","Government, Health, and Social Science",28384,2407,104,No,Moderate
+MITx,6.002x,2013,Circuits and Electronics,Anant Agarwal,"Science, Technology, Engineering, and Mathematics",21387,379,118,No,Moderate
+MITx,6.00.1x,2013,Introduction to Computer Science and Programming,"Eric Grimson, John Guttag",Computer Science,57147,4975,524,No,Low
+MITx,2.03x,2013,Dynamics and Control I,David Gossard,"Science, Technology, Engineering, and Mathematics",18424,398,61,No,High
+HarvardX,SW12.1x,2013,The Political and Intellectual Foundations of China,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",47384,3692,145,No,Moderate
+HarvardX,AI12.1x,2013,Poetry in America: The Poetry of Early New England,Elisa New,"Humanities, History, Design, Religion, and Education",6446,0,14,No,Low
+HarvardX,PH201x,2013,Health and Society,Ichiro Kawachi,"Government, Health, and Social Science",20914,3321,99,No,Moderate
+HarvardX,CS50x,2014,Introduction to Computer Science,David Malan,Computer Science,259577,1208,853,No,Low
+HarvardX,SW12.2x,2014,The Creation and End of a Centralized Empire,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",12856,2640,68,No,Moderate
+HarvardX,HDS1544.1x,2014,Early Christianity: The Letters of Paul,Laura Nasrallah,"Humanities, History, Design, Religion, and Education",33784,1549,102,No,Moderate
+HarvardX,AI12.2x,2014,Poetry in America: Whitman,Elisa New,"Humanities, History, Design, Religion, and Education",8685,388,20,No,Low
+MITx,21W.789x,2014,Building Mobile Experiences,"Frank Bentley, Ed Barrett",Computer Science,25886,101,40,No,Moderate
+MITx,14.73x,2014,Challenges of World Poverty,"Esther Duflo, Abhijit Banerjee","Government, Health, and Social Science",11102,1173,85,No,Low
+MITx,6.041x,2014,Introduction to Probability: The Science of Uncertainty,John Tsitsiklis,"Science, Technology, Engineering, and Mathematics",26364,592,224,No,Moderate
+HarvardX,SW12.3x,2014,Cosmopolitan Tang: Aristocratic Culture,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",7422,2226,34,No,Moderate
+MITx,12.340x,2014,Global Warming Science,Kerry Emanuel,"Science, Technology, Engineering, and Mathematics",7905,452,55,No,Moderate
+MITx,6.00.1x,2014,Introduction to Computer Science and Programming,"Eric Grimson, John Guttag",Computer Science,21063,1920,189,No,Low
+HarvardX,SW25x,2014,Global Health: Case Studies from a Biosocial Perspective,"Arthur Kleinman, Paul Farmer, Salmaan Keshavjee, Anne Becker","Government, Health, and Social Science",8256,1266,39,No,Moderate
+MITx,15.071x,2014,The Analytics Edge,Dimitris Bertsimas,"Government, Health, and Social Science",31391,1790,313,No,High
+MITx,16.110x,2014,Flight Vehicle Aerodynamics,Mark Drela,"Science, Technology, Engineering, and Mathematics",11883,101,34,No,High
+MITx,6.00.2x,2014,Introduction to Computational Thinking and Data Science,"Eric Grimson, John Guttag",Computer Science,13148,1502,97,No,Moderate
+HarvardX,GSE1x,2014,Unlocking the Immunity to Change,"Robert Kegan, Lisa Lahey","Humanities, History, Design, Religion, and Education",39319,1851,160,No,Moderate
+MITx,15.390x,2014,Entrepreneurship 101: Who Is Your Customer?,Bill Aulet,"Government, Health, and Social Science",36330,2043,109,No,Moderate
+HarvardX,SW12.4x,2014,A New National Culture,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",6753,1788,35,No,Low
+HarvardX,HAA1x,2014,HarvardX for Alumni: Explorations in Learning,Rob Lue,"Humanities, History, Design, Religion, and Education",7156,0,7,No,Low
+HarvardX,BUS5.1x,2014,Innovating in Health Care,"Regina Herzlinger, Margo Selzer","Government, Health, and Social Science",12621,602,28,No,Moderate
+MITx,JPAL 101x,2014,Evaluating Social Programs,"Rachel Glennerster, Marc Shotland","Government, Health, and Social Science",7382,980,46,No,Moderate
+HarvardX,PH525x,2014,Data Analysis for Genomics,Rafael Irizarry,"Government, Health, and Social Science",13708,651,58,No,High
+HarvardX,HSPH210x,2014,United States Health Policy,John McDonough,"Government, Health, and Social Science",10225,763,48,No,Moderate
+HarvardX,ER22.1x,2014,Justice,Michael Sandel,"Humanities, History, Design, Religion, and Education",35409,2485,145,No,Low
+MITx,6.SFMx,2014,Street Fighting Math,"Sanjoy Mahajan, Isaac Chuang","Science, Technology, Engineering, and Mathematics",27882,567,57,No,Moderate
+HarvardX,SW12.5x,2014,From Global Empire to Global Economy,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",5256,1686,25,No,Moderate
+MITx,MAS.S69x,2014,Big Data and Social Physics,Sandy Pentland,"Government, Health, and Social Science",30456,4055,35,No,High
+MITx,3.091x,2014,Introduction to Solid State Chemistry,Michael Cima,"Science, Technology, Engineering, and Mathematics",5854,269,55,No,Low
+HarvardX,SW12.6x,2014,The Last Empire,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",5446,1637,32,No,Moderate
+MITx,8.MREV,2014,Mechanics Review,David Pritchard,"Science, Technology, Engineering, and Mathematics",12939,502,87,No,Low
+HarvardX,USW30x,2014,Tangible Things,Laurel Ulrich,"Humanities, History, Design, Religion, and Education",10737,1090,23,No,Moderate
+MITx,2.01x,2014,Elements of Structures,Simona Socrate,"Science, Technology, Engineering, and Mathematics",6140,333,62,No,Moderate
+MITx,6.00.1x,2014,Introduction to Computer Science and Programming,"Eric Grimson, John Guttag",Computer Science,22148,2307,233,No,Low
+MITx,7.QBWx,2014,Quantitative Biology Workshop,Marry Ellen Wiltrout,"Science, Technology, Engineering, and Mathematics",5092,392,40,No,Moderate
+MITx,7.00x,2014,Introduction to Biology: Secret of Life,Eric Lander,"Science, Technology, Engineering, and Mathematics",15627,940,182,No,Low
+MITx,7.00x,2014,Introduction to Biology: Secret of Life,Eric Lander,"Science, Technology, Engineering, and Mathematics",10755,0,59,No,Low
+HarvardX,GSE2x,2014,Leaders of Learning,Richard Elmore,"Humanities, History, Design, Religion, and Education",36805,3942,103,No,Moderate
+MITx,6.002x,2014,Circuits and Electronics,"Anant Agarwal, Gerald Sussman, Piotr Mitros, Chris Terman, Bonnie Lam","Science, Technology, Engineering, and Mathematics",19263,482,129,No,Moderate
+MITx,6.00.1x,2014,Introduction to Computer Science and Programming,Eric Grimson,Computer Science,21017,2127,206,No,Low
+HarvardX,HUM2.1x,2014,The Ancient Greek Hero in 24 Hours (Hours 1-5): Epic and Lyric,Gregory Nagy,"Humanities, History, Design, Religion, and Education",7304,775,17,No,Moderate
+HarvardX,VJx,2014,"Visualizing Japan (1850s-1930s): Westernization, Protest, Modernity",John W. Dower,"Humanities, History, Design, Religion, and Education",8493,1183,20,No,Moderate
+MITx,3.032x,2014,Mechanical Behavior of Materials,Lorna J. Gibson,"Science, Technology, Engineering, and Mathematics",11841,502,81,No,High
+MITx,3.091x,2014,Introduction to Solid State Chemistry,Michael Cima,"Science, Technology, Engineering, and Mathematics",5245,164,39,No,Low
+HarvardX,SW12.7x,2014,"Invasions, Rebellions, and the end of Imperial China","Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",4662,1505,23,No,Moderate
+HarvardX,1368.1x,2014,"Saving Schools: History, Politics, and Policy of U.S. Education – History and Politics in U.S. Education",Paul Peterson,"Humanities, History, Design, Religion, and Education",3853,391,9,No,Moderate
+HarvardX,AMPOx.1,2014,Poetry in America: The Poetry of Early New England,Elisa New,"Humanities, History, Design, Religion, and Education",2820,153,8,No,Low
+HarvardX,HUM2.2x,2014,The Ancient Greek Hero in 24 Hours (Hours 6-11): Signs of the Hero in Epic and Iconography,Gregory Nagy,"Humanities, History, Design, Religion, and Education",2310,510,7,No,Moderate
+HarvardX,GSE1.1x,2014,Unlocking the Immunity to Change: A New Approach to Personal Improvement,"Robert Kegan (Bob), Lisa Lahey","Humanities, History, Design, Religion, and Education",13305,699,52,No,Moderate
+HarvardX,PH555x,2014,Improving Global Health: Focusing on Quality and Safety,Ashish K. Jha,"Government, Health, and Social Science",9010,1494,41,No,Moderate
+MITx,8.EFTx,2014,Effective Field Theory,Iain Stewart,"Science, Technology, Engineering, and Mathematics",7093,12,17,No,High
+MITx,4.605x,2014,A Global History of Architecture,Mark Jarzombek,"Humanities, History, Design, Religion, and Education",7052,543,54,No,Moderate
+HarvardX,AT1x,2014,AnatomyX: Musculoskeletal Cases,Trudy Van Houten,"Science, Technology, Engineering, and Mathematics",26086,1583,88,No,Moderate
+MITx,ESD.SCM1x,2014,Supply Chain and Logistics Fundamentals,Chris Caplice,"Government, Health, and Social Science",25600,2184,255,No,Moderate
+MITx,24.00x,2014,"Introduction to Philosophy: God, Knowledge and Consciousness",Caspar Hare,"Humanities, History, Design, Religion, and Education",20109,488,65,No,Moderate
+MITx,JPAL 101x,2014,Evaluating Social Programs,Rachel Glennerster,"Government, Health, and Social Science",5321,565,27,No,Moderate
+MITx,6.832x,2014,Underactuated Robotics,Russ Tedrake,"Science, Technology, Engineering, and Mathematics",11074,136,42,No,High
+HarvardX,HUM2.3x,2014,The Ancient Greek Hero in 24 Hours (Hours 12-15): Cult of Heroes,Gregory Nagy,"Humanities, History, Design, Religion, and Education",1559,417,3,No,Moderate
+MITx,11.132x,2014,Design and Development of Educational Technology,Eric Klopfer,"Humanities, History, Design, Religion, and Education",15942,1630,45,No,Moderate
+HarvardX,SW12.8x,2014,Creating China: The Birth of a Nation,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",4515,1528,24,No,Moderate
+MITx,6.00.2x,2014,Introduction to Computational Thinking and Data Science,Eric Grimson,Computer Science,11690,1259,81,No,Moderate
+HarvardX,HUM2.4x,2014,The Ancient Greek Hero in 24 Hours (Hours 16-21): The Hero in Tragedy,Gregory Nagy,"Humanities, History, Design, Religion, and Education",1615,376,4,No,Moderate
+HarvardX,AMPOx.2,2014,"Poetry in America: Nature and Nation, American Poetry, 1700-1850",Elisa New,"Humanities, History, Design, Religion, and Education",1911,149,7,No,Moderate
+MITx,11.126x,2014,Introduction to Game Design,Eric Klopfer,"Humanities, History, Design, Religion, and Education",25569,1480,50,No,Moderate
+HarvardX,1368.2x,2014,"Saving Schools: History, Politics, and Policy in U.S. Education – Teacher Policies",Paul Peterson,"Humanities, History, Design, Religion, and Education",1275,304,3,No,Moderate
+HarvardX,SW47.1x,2014,Entrepreneurship and Healthcare in Emerging Economies,Tarun Khanna,"Government, Health, and Social Science",10332,598,17,No,Moderate
+HarvardX,HUM2.5x,2014,The Ancient Greek Hero: Plato and Beyond,Gregory Nagy,"Humanities, History, Design, Religion, and Education",2201,367,2,No,Moderate
+MITx,9.01x,2014,"Light, Spike, and Sight: The Neuroscience of Vision",Sebastian Seung,"Science, Technology, Engineering, and Mathematics",7000,505,18,No,High
+HarvardX,SW12.9x,2014,Communist Liberations,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",4248,1442,23,No,Moderate
+HarvardX,CS50x,2015,Introduction to Computer Science,David Malan,Computer Science,301082,1523,276,No,Low
+HarvardX,SW12.10x,2015,"Greater China Today: The People's Republic, Taiwan, and Hong Kong","Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",5864,1258,48,No,Moderate
+HarvardX,1368.3x,2015,"Saving Schools: History, Politics, and Policy of U.S. Education – Accountability and National Standards",Paul Peterson,"Humanities, History, Design, Religion, and Education",1483,400,3,No,Moderate
+HarvardX,AMPOx.3,2015,Poetry in America: Walt Whitman,Elisa New,"Humanities, History, Design, Religion, and Education",3879,220,9,No,Low
+MITx,6.00.1x,2015,Introduction to Computer Science and Programming Using Python,"Eric Grimson, John Guttag",Computer Science,49529,4738,486,No,Low
+MITx,15.S23x,2015,"Transforming Business, Society, and Self",Otto Scharmer,"Government, Health, and Social Science",21420,2416,82,No,Moderate
+HarvardX,HLS2x,2015,ContractsX: From Trust to Promise to Contract,Charles Fried,"Government, Health, and Social Science",15433,2245,68,No,Moderate
+MITx,8.MECHCx,2015,Advanced Introductory Classical Mechanics,David E. Pritchard,"Science, Technology, Engineering, and Mathematics",6980,201,76,No,High
+MITx,15.390.1x,2015,Entrepreneurship 101: Who Is Your Customer?,Bill Aulet,"Government, Health, and Social Science",30780,2689,110,No,Moderate
+MITx,15.390.2x,2015,Entrepreneurship 102: What Can You Do For Your Customer?,Bill Aulet,"Government, Health, and Social Science",13173,574,33,No,Moderate
+MITx,7.QBWx,2015,Quantitative Biology Workshop,Collaborative,"Science, Technology, Engineering, and Mathematics",4143,257,26,No,Moderate
+MITx,3.086x,2015,Innovation and Commercialization,Eugene Fitzgerald,"Government, Health, and Social Science",12208,241,37,No,Moderate
+HarvardX,PH525.1x,2015,Data Analysis for Genomics: Statistics and R for the Life Sciences,Rafael Irizarry,"Government, Health, and Social Science",28425,2685,107,No,High
+MITx,6.002x,2015,Circuits and Electronics,Anant Agarwal,"Science, Technology, Engineering, and Mathematics",22828,202,99,No,Moderate
+MITx,21W.789x,2015,Building Mobile Experiences,"Frank Bentley, Ed Barrett",Computer Science,18454,45,25,No,Moderate
+MITx,14.73x,2015,The Challenges of Global Poverty,"Duflo, Banerjee","Government, Health, and Social Science",7664,594,67,No,Low
+MITx,6.041x,2015,Introduction to Probability: The Science of Uncertainty,"John Tsitsiklis, Patrick Jailet, Dimitri Bertsekas","Science, Technology, Engineering, and Mathematics",22537,410,217,No,Moderate
+MITx,6.341x,2015,Discrete-Time Signal Processing,"Oppenheim, Baran","Science, Technology, Engineering, and Mathematics",7396,144,49,No,High
+HarvardX,1368.4x,2015,"Saving Schools: History, Politics, and Policy in U.S. Education",Paul Peterson,"Humanities, History, Design, Religion, and Education",1465,380,3,No,Moderate
+HarvardX,SPU30x,2015,Super-Earths and Life,Dimitar Sasselov,"Science, Technology, Engineering, and Mathematics",7008,961,21,No,High
+MITx,3.072x,2015,"Symmetry, Structure and Tensor Properties of Materials",Eugene Fitzgerald,"Science, Technology, Engineering, and Mathematics",5448,31,12,No,High
+MITx,8.05x,2015,Mastering Quantum Mechanics,Barton Zwiebach,"Science, Technology, Engineering, and Mathematics",10932,393,187,No,High
+HarvardX,EMC2x,2015,The Einstein Revolution,Peter Galison,"Humanities, History, Design, Religion, and Education",11705,195,41,No,High
+HarvardX,HKS211.2x,2015,"Central Challenges in American National Security, Strategy and the Press","Graham Allison, David Sanger","Government, Health, and Social Science",6454,813,20,No,High
+HarvardX,PH525.2x,2015,Introduction to Linear Models and Matrix Algebra,Rafael Irizarry,"Government, Health, and Social Science",12007,1404,28,No,Moderate
+MITx,3.091x,2015,Introduction to Solid State Chemistry,Michael Cima,"Science, Technology, Engineering, and Mathematics",3661,65,29,No,Low
+HarvardX,PH525.3x,2015,Advanced Statistics for the Life Sciences,Rafael Irizarry,"Government, Health, and Social Science",9266,638,38,No,High
+MITx,6.004.1x,2015,Computation Structures: Digital Circuits,"Chris Terman, Steve Ward, Silvina Hanono Wachman",Computer Science,15530,805,127,No,Moderate
+MITx,15.071x,2015,The Analytics Edge,"Dimitris Bertsimas, Allison O'Hair","Government, Health, and Social Science",26776,3101,649,No,High
+MITx,16.00x,2015,Introduction to Aerospace Engineering: Astronautics and Human Spaceflight,Jeffrey Hoffman,"Science, Technology, Engineering, and Mathematics",13525,885,121,No,Moderate
+MITx,6.00.2x,2015,Introduction to Computational Thinking and Data Science,Eric Grimson,Computer Science,14835,1656,159,No,Moderate
+HarvardX,HLS3x,2015,JuryX: Deliberations for Social Change,Charles Nesson,"Government, Health, and Social Science",4091,379,6,No,Moderate
+MITx,7.28.1x,2015,Molecular Biology: DNA Replication and Repair,"Stephen Bell, Tania Baker","Science, Technology, Engineering, and Mathematics",7723,430,99,No,High
+HarvardX,AMPOx.4,2015,Poetry in America: Emily Dickinson,Elisa New,"Humanities, History, Design, Religion, and Education",5261,348,20,No,Low
+MITx,15.662x,2015,The American Dream for the Next Generation,Thomas Kochan,"Government, Health, and Social Science",5084,277,21,No,Low
+HarvardX,PH525.4x,2015,Introduction to Bioconductor,Rafael Irizarry,"Government, Health, and Social Science",4785,453,29,No,Moderate
+MITx,15.390.1x,2015,Entrepreneurship 101: Who Is Your Customer?,Bill Aulet,"Government, Health, and Social Science",25206,715,64,No,Moderate
+MITx,11.127x,2015,Design and Development of Games for Learning,Eric Klopfer,"Humanities, History, Design, Religion, and Education",15282,513,36,No,Moderate
+MITx,JPAL 101x,2015,Evaluating Social Programs,"Rachel Glennerster, Marc Shotland","Government, Health, and Social Science",3922,404,34,No,Moderate
+MITx,3.15x,2015,"Electrical, Optical and Magnetic Materials and Devices",Caroline Ross,"Science, Technology, Engineering, and Mathematics",10626,113,31,No,High
+HarvardX,PH525.5x,2015,"Data Analysis for Genomics: Case Study, RNA Sequence Data Analysis",Rafael Irizarry,"Government, Health, and Social Science",4262,377,13,No,High
+HarvardX,PH525.6x,2015,"Data Analysis for Genomics: Case study, Variant Discovery and Genotyping",Rafael Irizarry,"Government, Health, and Social Science",2428,209,8,No,High
+HarvardX,PH525.7x,2015,"Data Analysis for Genomics: Case study, ChIP Sequence Data Analysis",Rafael Irizarry,"Government, Health, and Social Science",2250,252,4,No,High
+HarvardX,PH525.8x,2015,"Data Analysis for Genomics: Case study, DNA Methylation Data Analysis",Rafael Irizarry,"Government, Health, and Social Science",2656,226,5,No,High
+MITx,15.390.2x,2015,Entrepreneurship 102: What Can You Do For Your Customer?,Bill Aulet,"Government, Health, and Social Science",6137,184,12,No,Moderate
+HarvardX,BUS5.1x,2015,Innovating in Health Care,"Regina Herzlinger, Margo Selzer","Government, Health, and Social Science",9185,183,13,No,Moderate
+HarvardX,AMPOx.5,2015,Poetry in America: The Civil War and Its Aftermath,Elisa New,"Humanities, History, Design, Religion, and Education",2479,196,7,No,Moderate
+HarvardX,GSE3x,2015,Introduction to Data Wise: A Collaborative Process to Improve Learning and Teaching,Kathryn Parker Boudett,"Humanities, History, Design, Religion, and Education",8286,807,20,No,Moderate
+MITx,CTL.SC1x,2015,Supply Chain and Logistics Fundamentals,Chris Caplice,"Government, Health, and Social Science",19996,1392,345,No,Moderate
+MITx,8.MECHCx,2015,Advanced Introductory Classical Mechanics,David E. Pritchard,"Science, Technology, Engineering, and Mathematics",8088,168,68,No,High
+MITx,UINOV8x,2015,User Innovation: A Path to Entrepreneurship,Eric von Hippel,"Government, Health, and Social Science",41361,1232,70,No,Moderate
+MITx,18.01.1x,2015,Calculus: Differentiation,David Jerison,"Science, Technology, Engineering, and Mathematics",18266,658,218,No,High
+MITx,15.071x,2015,The Analytics Edge,"Dimitris Bertsimas, Allison O'Hair","Government, Health, and Social Science",31551,1950,547,No,High
+MITx,24.118x,2015,Paradox and Infinity,Augustin Rayo,"Humanities, History, Design, Religion, and Education",12426,699,84,No,Moderate
+MITx,6.00.1x,2015,Introduction to Computer Science and Programming,"Eric Grimson, John Guttag",Computer Science,53964,5243,895,No,Low
+MITx,0.111x,2015,Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work,Felice Frankel,"Science, Technology, Engineering, and Mathematics",6934,126,16,No,Moderate
+HarvardX,MCB63x,2015,Principles of Biochemistry,"Alain Viel, Rachelle Gaudet","Science, Technology, Engineering, and Mathematics",31710,789,90,No,Moderate
+HarvardX,SPU27x,2015,Science and Cooking: From Haute Cuisine to Soft Matter Science,Michael Brenner,"Science, Technology, Engineering, and Mathematics",48922,504,68,No,Moderate
+MITx,10.03x,2015,Making Biologic Medicines for Patients: The Principles of Biopharmaceutical Manufacturing,"J. Christopher Love, Anthony J. Sinskey, Stacy Springs","Government, Health, and Social Science",4404,638,42,No,High
+MITx,11.133x,2015,Implementation and Evaluation of Educational Technology,Eric Klopfer,"Humanities, History, Design, Religion, and Education",4518,471,12,No,Moderate
+MITx,7.28.1x,2015,Molecular Biology: DNA Replication and Repair,"Stephen P. Bell, Tania A. Baker, Mary Ellen Wiltrout, Nathaniel Schafheimer, Sera Thornton","Science, Technology, Engineering, and Mathematics",5725,209,44,No,High
+HarvardX,USW30x,2015,Tangible Things,Laurel Ulrich,"Humanities, History, Design, Religion, and Education",4794,353,11,No,Moderate
+MITx,6.00.1x,2015,Introduction to Computer Science and Programming Using Python,"Eric Grimson, John Guttag, Ana Bell",Computer Science,54361,3411,568,No,Low
+MITx,6.004.1x,2015,Computation Structures: Digital Circuits,"Chris Terman, Steve Ward, Silvina Wachman",Computer Science,16094,377,97,No,Moderate
+HarvardX,HKS101A,2015,Introduction to American Government,Thomas Patterson,"Government, Health, and Social Science",16005,623,63,No,Low
+MITx,3.091x,2015,Introduction to Solid State Chemistry,Michael Cima,"Science, Technology, Engineering, and Mathematics",4767,99,42,No,Low
+MITx,3.032.1x,2015,Mechanical Behavior of Materials: Linear Elastic Behavior,Lorna J. Gibson,"Science, Technology, Engineering, and Mathematics",6577,445,40,No,Moderate
+MITx,15.671x,2015,"Transforming Business, Society, and Self",Otto Scharmer,"Government, Health, and Social Science",23087,1606,166,No,Moderate
+HarvardX,VJx,2015,"Visualizing Japan (1850s-1930s): Westernization, Protest, Modernity","Andrew Gordon, John Dower, Shigeru Miyagawa","Humanities, History, Design, Religion, and Education",2175,330,12,No,Moderate
+HarvardX,HUM1.1x,2015,History of the Book: Making and Meaning in the Medieval Manuscript,"Jeffrey Hamburger, Bill Stoneman","Humanities, History, Design, Religion, and Education",4033,460,11,No,Moderate
+HarvardX,HUM1.2x,2015,History of the Book: Scrolls in the Age of the Book,Tom Kelly,"Humanities, History, Design, Religion, and Education",2085,390,5,No,Moderate
+HarvardX,HUM1.3x,2015,"History of the Book: Print and Manuscript in Western Europe, Asia and the Middle East (1450-1650)",Ann Blair,"Humanities, History, Design, Religion, and Education",1732,361,4,No,Moderate
+HarvardX,HUM1.4x,2015,History of the Book: The History of the Book in the 17th and 18th Century Europe,Robert Darnton,"Humanities, History, Design, Religion, and Education",2587,502,6,No,Moderate
+HarvardX,HUM1.5x,2015,History of the Book: Book Sleuthing: What 19th-Century Books Can Tell Us About the Rise of the Reading Public,Leah Price,"Humanities, History, Design, Religion, and Education",2862,443,3,No,Moderate
+HarvardX,HUM1.6x,2015,"History of the Book: Monasteries, Schools, and Notaries, Part 1: Reading the Late Medieval Marseille Archive",Dan Smail,"Humanities, History, Design, Religion, and Education",1602,243,6,No,Moderate
+HarvardX,HUM1.7x,2015,"History of the Book: Monasteries, Schools, and Notaries, Part 2: Introduction to the Transitional Gothic Script",Beverly Kienzle,"Humanities, History, Design, Religion, and Education",670,191,3,No,Moderate
+HarvardX,HUM1.8x,2015,History of the Book: The Medieval Book of Hours: Art and Devotion in the Later Middle Ages,"Jeffrey Hamburger, Bill Stoneman","Humanities, History, Design, Religion, and Education",1472,189,7,No,Moderate
+HarvardX,HUM1.9x,2015,History of the Book: Books in the Medieval Liturgy,Tom Kelly,"Humanities, History, Design, Religion, and Education",1698,330,5,No,High
+MITx,14.74x,2015,Foundations of Development Policy: Advanced Development Economics,"Abhijit Vinayak Banerjee, Esther Duflo, Benjamin Olken","Government, Health, and Social Science",7532,360,77,No,High
+MITx,8.421.1x,2015,Atomic and Optical Physics: Resonance,"Wolfgang Ketterle, David E. Pritchard, Isaac Chuang","Science, Technology, Engineering, and Mathematics",6129,199,19,No,Moderate
+MITx,4.605x,2015,A Global History of Architecture,Mark Jarzombek,"Humanities, History, Design, Religion, and Education",5724,498,77,No,Moderate
+MITx,16.101x,2015,Introduction to Aerodynamics,David L. Darmofal,"Science, Technology, Engineering, and Mathematics",18732,66,51,No,Moderate
+MITx,6.002.1x,2015,Circuits and Electronics: Basic Circuit Analysis,"Anant Agarwal, Gerald Sussman, Piotr Mitros, Chris Terman, Bonnie Lam","Science, Technology, Engineering, and Mathematics",38119,591,174,No,Moderate
+MITx,6.002.2x,2015,"Circuits and Electronics: Amplification, Speed, and Delay","Anant Agarwal, Gerald Sussman, Piotr Mitros, Chris Terman, Bonnie Lam","Science, Technology, Engineering, and Mathematics",6146,171,29,No,Moderate
+MITx,6.002.3x,2015,Circuits and Electronics: Applications,"Anant Agarwal, Gerald Sussman, Piotr Mitros, Chris Terman, Bonnie Lam","Science, Technology, Engineering, and Mathematics",5566,95,18,No,Moderate
+MITx,CTL.SC2x,2015,Supply Chain Design,"Chris Caplice, Yossi Sheffi, James Blayney Rice Jr., Jarrod Goentzel","Government, Health, and Social Science",14679,1848,317,No,Moderate
+HarvardX,GOV1368.1x,2015,"Saving Schools: History, Politics, and Policy of U.S. Education – History and Politics in U.S. Education",Paul Peterson,"Humanities, History, Design, Religion, and Education",3126,246,8,No,Moderate
+HarvardX,GOV1368.2x,2015,"Saving Schools: History, Politics, and Policy of U.S. Education – Teacher Policies",Paul Peterson,"Humanities, History, Design, Religion, and Education",702,180,2,No,Moderate
+HarvardX,GOV1368.3x,2015,"Saving Schools: History, Politics, and Policy of U.S. Education – Accountability and National Standards",Paul Peterson,"Humanities, History, Design, Religion, and Education",492,127,1,No,Moderate
+HarvardX,GOV1368.4x,2015,"Saving Schools: History, Politics, and Policy of U.S. Education – School Choice",Paul Peterson,"Humanities, History, Design, Religion, and Education",511,113,1,No,Moderate
+HarvardX,ER22x,2015,Justice,Michael Sandel,"Humanities, History, Design, Religion, and Education",30699,1726,110,No,Low
+MITx,6.832x,2015,Underactuated Robotics,"Russ Tedrake, Robin Deits, Twan Koolen","Science, Technology, Engineering, and Mathematics",10191,148,45,No,High
+MITx,20.305x,2015,Principles of Synthetic Biology,"Adam Arkin, Ron Weiss","Science, Technology, Engineering, and Mathematics",11574,106,83,No,High
+MITx,JPAL101x,2015,Evaluating Social Programs,"Rachel Glennerster, Marc Shotland","Government, Health, and Social Science",4187,190,22,No,Moderate
+HarvardX,SPU30x,2015,Super-Earths and Life,Dimitar Sasselov,"Science, Technology, Engineering, and Mathematics",29176,4918,109,No,High
+MITx,3.032.2x,2015,"Mechanical Behavior of Materials: Stress Transformations, Beams, Columns, and Cellular Solids",Lorna J. Gibson,"Science, Technology, Engineering, and Mathematics",3178,320,20,No,High
+HarvardX,PH525.1x,2015,Data Analysis for Genomics: Statistics and R,Rafael Irizarry,"Government, Health, and Social Science",18540,793,65,No,High
+MITx,8.421.2x,2015,Atomic and Optical Physics: Atomic structure and atoms in external field,"Wolfgang Ketterle, David E. Pritchard, Isaac Chuang","Science, Technology, Engineering, and Mathematics",1178,94,10,No,High
+MITx,6.00.2x,2015,Introduction to Computational Thinking and Data Science,"Eric Grimson, John Guttag, Ana Bell",Computer Science,12426,1516,168,No,Moderate
+HarvardX,SW12.1x,2015,Political and Intellectual Foundations: From the Sage Kings to Confucius and the Legalists,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",6519,254,26,No,Moderate
+HarvardX,SW12.2x,2015,The Creation and End of Centralized Empire,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",849,112,7,No,Moderate
+HarvardX,SW12.3x,2015,Cosmopolitan Tang: Aristocratic Culture,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",729,92,3,No,Moderate
+HarvardX,SW12.4x,2015,Literati China: Examinations and Neo-Confucianism,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",427,58,3,No,Moderate
+HarvardX,SW12.5x,2015,From a Global Empire under the Mongols to a Global Economy under the Ming Dynasty,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",461,66,2,No,Moderate
+MITx,10.03x,2015,Making Biologic Medicines for Patients: The Principles of Biopharmaceutical Manufacturing,"J. Christopher Love, Anthony J. Sinskey, Dr.  Stacy L. Springs, Dr. Paul W. Barone, Betsy Skrip, Nicholas Mozdzierz, Eric Miller","Government, Health, and Social Science",2599,436,30,No,High
+MITx,7.28.2x,2015,Molecular Biology: Transcription and Transposition,"Stephen P. Bell, Tania A. Baker, Mary Ellen Wiltrout, Nathaniel Schafheimer, Sera Thornton","Science, Technology, Engineering, and Mathematics",2860,333,47,No,High
+HarvardX,SW12.10x,2015,"Greater China Today: The People's Republic, Taiwan, and Hong Kong","Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",948,65,5,No,Moderate
+HarvardX,SW12.6x,2015,The Manchus and the Qing Dynasty,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",1381,145,4,No,Moderate
+HarvardX,SW12.7x,2015,"Invasions, Rebellions and the Fall of Imperial China","Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",385,67,2,No,Moderate
+HarvardX,SW12.8x,2015,Creating Modern China: The Birth of a Nation,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",422,56,2,No,Moderate
+HarvardX,SW12.9x,2015,China and Communism,"Peter Bol, Bill Kirby","Humanities, History, Design, Religion, and Education",515,60,2,No,Moderate
+HarvardX,VJx,2015,"Visualizing Japan (1850s-1930s): Westernization, Protest, Modernity","Andrew Gordon, John Dower, Shigeru Miyagawa","Humanities, History, Design, Religion, and Education",4842,249,18,No,Moderate
+MITx,3.032.3x,2015,Mechanical Behavior of Materials: Time Dependent Behavior and Failure,Lorna J. Gibson,"Science, Technology, Engineering, and Mathematics",2075,179,15,No,High
+HarvardX,PH525.2x,2015,Data Analysis for Genomics: Matrix Algebra and Linear Models,Rafael Irizarry,"Government, Health, and Social Science",3654,444,11,No,High
+HarvardX,MUS24x,2015,First Nights: Handel’s Messiah and Baroque Oratorio,Tom Kelly,"Humanities, History, Design, Religion, and Education",3806,478,13,No,Moderate
+MITx,8.421.3x,2015,Atomic and Optical Physics: Atom-Light Interactions 1 -- Matrix elements and quantized field,"Wolfgang Ketterle, David E. Pritchard, Isaac Chuang","Science, Technology, Engineering, and Mathematics",790,63,6,No,High
+MITx,6.004.2x,2015,Computation Structures: Computer Architecture,"Chris Terman, Steve Ward, Silvina Hanono Wachman",Computer Science,8495,406,56,No,High
+MITx,24.09x,2015,Philosophy: Minds and Machines,Alex Byrne,"Humanities, History, Design, Religion, and Education",10837,383,95,No,Moderate
+MITx,18.01.2x,2015,Calculus: Integration,David Jerison,"Science, Technology, Engineering, and Mathematics",7260,336,115,No,High
+HarvardX,PH557x,2015,Lessons from Ebola: Preventing the Next Pandemic,Ashish Jha,"Government, Health, and Social Science",3072,616,14,No,Moderate
+MITx,8.421.4x,2015,Atomic and Optical Physics: Atom-Light Interactions 2: Line Broadening and Two-Photon Transitions,"Wolfgang Ketterle, David E. Pritchard, Isaac Chuang","Science, Technology, Engineering, and Mathematics",658,48,4,No,High
+HarvardX,PH525.3x,2015,Data Analysis for Genomics: Statistical Inference and Modeling for High-throughput Experiments,Rafael Irizarry,"Government, Health, and Social Science",2379,277,9,No,High
+HarvardX,CS50x,2016,Introduction to Computer Science (2016),,Computer Science,168335,417,709,No,Low
+MITx,6.302.0x,2016,Introduction to Feedback Control Theory,"Jacob White, Joe Steinmeyer","Science, Technology, Engineering, and Mathematics",8377,127,21,No,High
+HarvardX,HLS2x,2016,Contracts Law: From Trust to Promise to Contract,Charles Fried,"Government, Health, and Social Science",13798,2231,98,No,Moderate
+MITx,8.MECHCx,2016,Advanced Introductory Classical Mechanics,"David E. Pritchard, Chris Chudzicki, Zhongzhou Chen","Science, Technology, Engineering, and Mathematics",5747,101,53,No,High
+MITx,6.00.1x,2016,Introduction to Computer Science and Programming Using Python,"Eric Grimson, John Guttag, Ana Bell",Computer Science,63658,3744,249,No,Low
+HarvardX,PH525.4x,2016,Data Analysis for Genomics: Introduction to High-Dimensional Data Analysis,Rafael Irizarry,"Government, Health, and Social Science",2321,193,8,No,High
+MITx,8.421.5x,2016,Atomic and Optical Physics: Coherence,"Wolfgang Ketterle, David E. Pritchard, Isaac Chuang","Science, Technology, Engineering, and Mathematics",639,26,3,No,High
+HarvardX,PH556x,2016,Practical Improvement Science in Health Care: A Roadmap for Getting Results,"Don Goldmann, Dave Williams, Don Berwick","Government, Health, and Social Science",6792,903,20,No,Moderate
+HarvardX,MUS24x,2016,First Nights: Beethoven's 9th Symphony,Tom Kelly,"Humanities, History, Design, Religion, and Education",4237,587,19,No,Moderate
+HarvardX,PH231x,2016,Readings in Global Health,David Hunter,"Government, Health, and Social Science",5309,419,30,No,Moderate
+MITx,LAUNCH.x,2016,Becoming an Entrepreneur,Laurie Stach,"Government, Health, and Social Science",18183,239,46,No,Moderate
+MITx,3.054.1x,2016,"Cellular Solids: Structures, Properties and Engineering Applications",Lorna J. Gibson,"Science, Technology, Engineering, and Mathematics",2456,99,17,No,Moderate
+MITx,11.132x,2016,Design and Development of Educational Technology,"Eric Klopfer, Scot Osterweil, Judy Perry","Humanities, History, Design, Religion, and Education",8405,160,28,No,Moderate
+MITx,21W.789x,2016,Mobile Application Experiences: From a Domain to an App Idea,"Frank Bentley, Ed Barrett",Computer Science,16407,23,28,No,Moderate
+MITx,6.041x,2016,Introduction to Probability: The Science of Uncertainty,"John Tsitsiklis, Patrick Jaillet, Aliaa Atwi, Dimitri Bertsekas, Qing He, Jimmy Li, Jagdish Ramakrishnan, Katie Szeto, Kuang Xu","Science, Technology, Engineering, and Mathematics",17354,136,269,No,Moderate
+MITx,16.110x,2016,Flight Vehicle Aerodynamics,"Mark Drela, Alejandra Uranga","Science, Technology, Engineering, and Mathematics",9788,58,29,No,High
+MITx,CTL.SC1x,2016,Supply Chain and Logistics Fundamentals,Chris Caplice,"Government, Health, and Social Science",18686,2471,674,No,Moderate
+HarvardX,PH525.5x,2016,Data Analysis for Genomics: Introduction to Bioconductor: Annotation and Analysis of Genomes and Genomic Assays,Rafael Irizarry,"Government, Health, and Social Science",1409,120,6,No,High
+HarvardX,EMC2x,2016,The Einstein Revolution,Peter Galison,"Humanities, History, Design, Religion, and Education",5571,9,21,No,High
+MITx,12.340x,2016,Global Warming Science,"Kerry Emanuel, Dan Cziczo, David McGee","Science, Technology, Engineering, and Mathematics",3842,51,25,No,Moderate
+MITx,8.05.1x,2016,Mastering Quantum Mechanics: Wave Mechanics,"Barton Zwiebach, Saif Rayyan","Science, Technology, Engineering, and Mathematics",8936,55,72,No,High
+MITx,14.73x,2016,The Challenges of Global Poverty,"Esther Duflo, Abhijit Vinayak Banerjee","Government, Health, and Social Science",4250,296,45,No,Low
+HarvardX,SW25x,2016,Global Health Case Studies from a Biosocial Perspective,"Arthur Kleinman, Paul Farmer, Salmaan Keshavjee, Anne Becker","Government, Health, and Social Science",4050,472,29,No,Moderate
+MITx,21W.789.2x,2016,Mobile Application Experiences: Mobile App Design,"Frank Bentley, Ed Barrett",Computer Science,4522,27,6,No,Moderate
+HarvardX,HDS3221.1x,2016,"World Religions Through their Scriptures: Religious Literacy, Traditions and Scriptures",Diane Moore,"Humanities, History, Design, Religion, and Education",22153,282,79,No,Moderate
+MITx,6.00.2x,2016,Introduction to Computational Thinking and Data Science,"Eric Grimson, John Guttag, Ana Bell",Computer Science,14003,513,144,No,Moderate
+HarvardX,PH525.6x,2016,Data Analysis for Genomics: High-performance Computing for Reproducible Genomics,Rafael Irizarry,"Government, Health, and Social Science",1546,19,3,No,High
+HarvardX,HLS2x,2016,Contracts Law: From Trust to Promise to Contract,Charles Fried,"Government, Health, and Social Science",13260,587,51,No,Moderate
+MITx,8.05.2x,2016,Mastering Quantum Mechanics: Quantum Dynamics,"Barton Zwiebach, Saif Rayyan","Science, Technology, Engineering, and Mathematics",1862,40,25,No,High
+MITx,21W.789.3x,2016,Mobile Application Experiences: Building Mobile Apps,"Frank Bentley, Ed Barrett",Computer Science,4276,9,4,No,Moderate
+MITx,15.662x,2016,Shaping the Future of Work,"Thomas Kochan, Gokce Basbug, Meryam Bukari, Shahid Azad, Kanika Almadi","Government, Health, and Social Science",2583,51,11,No,Moderate
+MITx,18.01.3x,2016,Calculus: Coordinate Systems and Infinite Series,David Jerison,"Science, Technology, Engineering, and Mathematics",3749,233,45,No,High
+MITx,7.QBWx,2016,Quantitative Biology Workshop,"Jeff Gore, Paul Blainey, Eric S. Lander, Ernest Fraenkel, Mary Ellen Wiltrout, Nathaniel Schafheimer","Science, Technology, Engineering, and Mathematics",3294,70,45,No,Moderate
+HarvardX,HDS3221.2x,2016,World Religions Through their Scriptures: Christianity,Karen King,"Humanities, History, Design, Religion, and Education",10188,138,38,No,Moderate
+HarvardX,AMPOx.6,2016,Poetry in America: Modernism,Elisa New,"Humanities, History, Design, Religion, and Education",3049,45,24,No,Moderate
+MITx,3.054.2x,2016,Cellular Solids: Applications in Medicine,Lorna J. Gibson,"Science, Technology, Engineering, and Mathematics",510,53,3,No,Moderate
+MITx,15.071x,2016,The Analytics Edge,"Dimitris Bertsimas, Allison O'Hair, John Silberholz, Iain Dunning, Angie King, Velibor Misic, Nataly Youssef, Alex Weinstein, Jerry Kung","Government, Health, and Social Science",33044,1417,711,No,High
+HarvardX,PH525.7x,2016,Data Analysis for Genomics: Case Studies in Functional Genomics,Rafael Irizarry,"Government, Health, and Social Science",1716,12,6,No,High
+HarvardX,GSE3x,2016,Introduction to Data Wise: A Collaborative Process to Improve Learning and Teaching,Kathryn Parker Boudett,"Humanities, History, Design, Religion, and Education",2493,63,10,No,Moderate
+MITx,11.405x,2016,Just Money: Banking as if Society Mattered,"J. Phillip Thompson, Katrin Kaeufer, Lily Steponaitis","Government, Health, and Social Science",4955,254,25,No,Moderate
+MITx,21W.789.4x,2016,Mobile Application Experiences: Understanding Use,"Frank Bentley, Ed Barrett",Computer Science,664,5,1,No,Moderate
+MITx,11.126x,2016,Introduction to Game Design,"Eric Klopfer, Philp Tan, Sara Verrilli","Humanities, History, Design, Religion, and Education",9933,121,27,No,Moderate
+MITx,8.05.3x,2016,Mastering Quantum Mechanics: Entanglement and Angular Momentum,"Barton Zwiebach, Saif Rayyan","Science, Technology, Engineering, and Mathematics",1236,35,19,No,High
+HarvardX,MUS24.1x,2016,First Nights: L'Orfeo,Tom Kelly,"Humanities, History, Design, Religion, and Education",1199,43,5,No,Moderate
+MITx,JPAL101x,2016,Evaluating Social Programs,"Rachel Glennerster, Marc Shotland","Government, Health, and Social Science",4130,166,34,No,Moderate
+HarvardX,HDS3221.3x,2016,World Religions Through their Scriptures: Buddhism,Charles Hallisey,"Humanities, History, Design, Religion, and Education",8758,94,26,No,Moderate
+HarvardX,GSE2x,2016,Leaders of Learning,Richard Elmore,"Humanities, History, Design, Religion, and Education",9743,202,20,No,Moderate
+MITx,3.054.3x,2016,Cellular Solids: Applications in Nature,Lorna J. Gibson,"Science, Technology, Engineering, and Mathematics",362,24,2,No,Moderate
+MITx,CTL.SC2x,2016,Supply Chain Design,"Chris Caplice, Yossi Sheffi, Jarrod Goentzel, James Blayney Rice Jr.","Government, Health, and Social Science",12455,1510,355,No,Moderate
+MITx,21W.789.5x,2016,Mobile Application Experiences: Reporting Research Findings,"Frank Bentley, Ed Barrett",Computer Science,322,4,0,No,Moderate
+HarvardX,MCB64.1x,2016,Cell Biology: Mitochondria,Rob Lue,"Science, Technology, Engineering, and Mathematics",8297,268,40,No,Moderate
+MITx,3.15.1x,2016,Electronic Materials and Devices,Caroline Ross,"Science, Technology, Engineering, and Mathematics",7898,94,28,No,Moderate
+HarvardX,HDS3221.4x,2016,World Religions Through Their Scriptures: Islam,Ali Asani,"Humanities, History, Design, Religion, and Education",8695,127,40,No,Moderate
+MITx,7.28.1x1,2016,Molecular Biology: DNA Replication and Repair,"Stephen P. Bell, Tania A. Baker, Mary Ellen Wiltrout, Nathaniel Schafheimer, Sera Thornton","Science, Technology, Engineering, and Mathematics",4825,92,30,No,Moderate
+MITx,6.00.1x,2016,Introduction to Computer Science and Programming,"Eric Grimson, John Guttag, Ana Bell",Computer Science,21212,947,486,No,Low
+HarvardX,ENGSCI137x,2016,Energy Within Environmental Constraints,David Keith,"Science, Technology, Engineering, and Mathematics",8017,339,95,No,Moderate
+MITx,10.03x,2016,Making Biologic Medicines for Patients: The Principles of Biopharmaceutical Manufacturing,"J. Christopher Love, Anthony J. Sinskey, Dr.  Stacy L. Springs, Dr. Paul W. Barone, Betsy Skrip, Nicholas Mozdzierz, Eric Miller","Government, Health, and Social Science",2604,207,18,No,Moderate
+MITx,2.01x,2016,Elements of Structures,"Simona Socrate, Alexie M. Kolpak","Science, Technology, Engineering, and Mathematics",4014,46,27,No,Moderate
+MITx,LAUNCHx,2016,Becoming an Entrepreneur,Laurie Stach,"Government, Health, and Social Science",22959,320,38,No,Low
+MITx,6.002.1x,2016,Circuits and Electronics: Basic Circuit Analysis,"Anant Agarwal, Gerald Sussman, Piotr Mitros, Chris Terman, Bonnie Lam","Science, Technology, Engineering, and Mathematics",12218,18,57,No,Moderate
+MITx,6.002.2x,2016,"Circuits and Electronics: Amplification, Speed, and Delay","Anant Agarwal, Gerald Sussman, Piotr Mitros, Chris Terman, Bonnie Lam","Science, Technology, Engineering, and Mathematics",1645,2,7,No,Moderate
+MITx,3.15.2x,2016,Optical Materials and Devices,Caroline Ross,"Science, Technology, Engineering, and Mathematics",2335,65,11,No,Moderate
+HarvardX,HDS3221.5x,2016,World Religions Through their Scriptures: Hinduism,Neelima Shukla-Bhatt,"Humanities, History, Design, Religion, and Education",4553,70,19,No,Low
+MITx,11.133x,2016,Implementation and Evaluation of Educational Technology,"Eric Klopfer, Elizabeth Huttner-Loan","Humanities, History, Design, Religion, and Education",2402,128,9,No,Moderate
+HarvardX,MUS24.4x,2016,First Nights: Symphonie Fantastique,Tom Kelly,"Humanities, History, Design, Religion, and Education",615,20,2,No,Low
+HarvardX,GSE4x,2016,Introduction to Family Engagement in Education,Karen Mapp,"Humanities, History, Design, Religion, and Education",2871,20,4,No,Low
+MITx,6.302.0x,2016,Introduction to Control System Design,"Jacob White, Joe Steinmeyer","Science, Technology, Engineering, and Mathematics",3937,49,16,No,Moderate
+MITx,6.302.1x,2016,Introduction to State Space Control,"Jacob White, Joe Steinmeyer","Science, Technology, Engineering, and Mathematics",1431,8,3,No,Moderate
+MITx,3.15.3x,2016,Magnetic Materials and Devices,Caroline Ross,"Science, Technology, Engineering, and Mathematics",1294,38,7,No,Moderate
