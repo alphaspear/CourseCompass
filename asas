@@ -1,0 +1,310 @@
+DDL
+
+
+
+CREATE TABLE `operating-aria-468908-b6.alpspr_dataset_01.jsonl_dump_4` (
+  object_type STRING,
+  step_id STRING,
+  step_name STRING,
+  parent_step_id STRING,
+  version STRING,
+  first_second_word_step_id STRING,
+  brand_step_id STRING,
+  supc INT64,
+  global_item_status STRING,
+  global_product_description STRING,
+  global_product_description_text STRING,
+  does_the_product_have_a_gtin STRING,
+  gtin_outer INT64,
+  gtin_inner INT64,
+  case_pack STRING,
+  case_size STRING,
+  case_uom STRING,
+  case_uom_name STRING,
+  legally_packaged_to_be_sold_as_a_split STRING,
+  taxonomy_hierarchy_id STRING,
+  case_length STRING,
+  case_length_uom STRING,
+  case_length_uom_name STRING,
+  case_width STRING,
+  case_width_uom STRING,
+  case_width_uom_name STRING,
+  case_height STRING,
+  case_height_uom STRING,
+  case_height_uom_name STRING,
+  case_cube STRING,
+  case_cube_uom STRING,
+  case_cube_uom_name STRING,
+  split_length STRING,
+  split_length_uom STRING,
+  split_length_uom_name STRING,
+  split_width STRING,
+  split_width_uom STRING,
+  split_width_uom_name STRING,
+  split_height STRING,
+  split_height_uom STRING,
+  split_height_uom_name STRING,
+  split_cube STRING,
+  split_cube_uom STRING,
+  split_cube_uom_name STRING,
+  catch_weight STRING,
+  case_gross_weight FLOAT64,
+  case_gross_weight_uom STRING,
+  case_gross_weight_uom_name STRING,
+  case_net_weight FLOAT64,
+  case_net_weight_uom STRING,
+  case_net_weight_uom_name STRING,
+  case_tare_weight FLOAT64,
+  case_tare_weight_uom STRING,
+  case_tare_weight_uom_name STRING,
+  case_true_net_weight_drained_glazed FLOAT64,
+  case_true_net_weight_drained_glazed_uom STRING,
+  case_true_net_weight_drained_glazed_uom_name STRING,
+  split_gross_weight FLOAT64,
+  split_gross_weight_uom STRING,
+  split_gross_weight_uom_name STRING,
+  split_net_weight FLOAT64,
+  split_net_weight_uom STRING,
+  split_net_weight_uom_name STRING,
+  split_tare_weight FLOAT64,
+  split_tare_weight_uom STRING,
+  split_tare_weight_uom_name STRING,
+  split_true_net_weight_drained_glazed FLOAT64,
+  split_true_net_weight_drained_glazed_uom STRING,
+  split_true_net_weight_drained_glazed_uom_name STRING,
+  catch_weight_range_from FLOAT64,
+  catch_weight_range_from_uom STRING,
+  catch_weight_range_from_uom_name STRING,
+  catch_weight_range_to FLOAT64,
+  catch_weight_range_to_uom STRING,
+  catch_weight_range_to_uom_name STRING,
+  almonds STRING,
+  barley STRING,
+  brazil_nuts STRING,
+  cashew_nuts STRING,
+  celery_and_products_thereof STRING,
+  crustaceans_and_products_thereof STRING,
+  eggs_and_products_thereof STRING,
+  fish_and_products_thereof STRING,
+  gluten_at_20_ppm STRING,
+  hazelnuts STRING,
+  kamut STRING,
+  lupin_and_products_thereof STRING,
+  macadamia_nuts_or_queensland_nuts STRING,
+  milk_and_products_thereof STRING,
+  molluscs_and_products_thereof STRING,
+  mustard_and_products_thereof STRING,
+  nuts STRING,
+  oats STRING,
+  peanuts_and_products_thereof STRING,
+  pecan_nuts STRING,
+  pistachio_nuts STRING,
+  queensland_nuts STRING,
+  rye STRING,
+  sesame_seeds_and_products_thereof STRING,
+  soybeans_and_products_thereof STRING,
+  spelt STRING,
+  sulphur_dioxide_10ppm STRING,
+  walnuts STRING,
+  wheat STRING,
+  dairy_free STRING,
+  gluten_free STRING,
+  halal STRING,
+  kosher STRING,
+  vegan STRING,
+  vegetarian STRING,
+  organic STRING,
+  sysco_finance_category STRING,
+  nutritional_unit STRING,
+  energy_kcal FLOAT64,
+  energy_kj FLOAT64,
+  fat FLOAT64,
+  of_which_saturates FLOAT64,
+  of_which_monounsaturates FLOAT64,
+  of_which_polyunsaturates FLOAT64,
+  of_which_trans_fats FLOAT64,
+  carbohydrate FLOAT64,
+  of_which_sugars FLOAT64,
+  of_which_polyols FLOAT64,
+  of_which_starch FLOAT64,
+  fibre FLOAT64,
+  protein FLOAT64,
+  salt FLOAT64,
+  sodium FLOAT64,
+  cases_per_layer_euro_pallet INT64,
+  layers_per_pallet_euro_pallet INT64,
+  cases_per_layer_standard_pallet INT64,
+  layers_per_pallet_standard_pallet INT64,
+  split_pack STRING,
+  split_size STRING,
+  split_uom_code STRING,
+  split_uom_name STRING,
+  splits_per_case INT64,
+  latin_fish_name STRING,
+  marketing_description STRING,
+  invoice_description STRING,
+  search_name STRING,
+  warehouse_description STRING,
+  cooking_instructions STRING,
+  cooking_warning STRING,
+  defrosting_guidelines STRING,
+  food_safety_tips STRING,
+  handling_instructions STRING,
+  storage_guidelines STRING,
+  country_of_origin_manufactured_iso_code STRING,
+  country_of_origin_manufactured_iso_name STRING,
+  country_of_origin_raw_ingredients ARRAY<STRING>,
+  country_of_origin_packed_iso2_code STRING,
+  country_of_origin_packed_iso2_name STRING,
+  country_of_origin_sold_from_iso2_code STRING,
+  country_of_origin_sold_from_iso2_name STRING,
+  customer_branded STRING,
+  perishable_product_date_tracked STRING,
+  shelf_life_period_in_days_manufacturer INT64,
+  shelf_life_period_in_days_sysco INT64,
+  taric_commodity_code STRING,
+  taric_commodity_name STRING,
+  biodegradable_or_compostable STRING,
+  recyclable STRING,
+  hazardous_material STRING,
+  multi_language_packaging STRING,
+  multi_language_packaging_legally_allowed_to_be_sold_in_country ARRAY<STRING>,
+  eu_hub STRING,
+  eu_hub_change_date STRING,
+  unit_purchase STRING,
+  nominal_quantity FLOAT64,
+  minimum_quantity FLOAT64,
+  maximum_quantity FLOAT64,
+  portion STRING,
+  constellation STRING,
+  unit_sequence_group_id STRING,
+  unit_sequence_group_name STRING,
+  true_vendor_name STRING,
+  product_warranty STRING,
+  product_warranty_code STRING,
+  item_group STRING,
+  taric_code STRING,
+  created_time TIMESTAMP,
+  created_by STRING,
+  changed_time TIMESTAMP,
+  changed_by STRING
+);
+
+
+
+
+------
+
+
+#!/usr/bin/env python3
+import json
+from google.cloud import bigquery, storage
+
+PROJECT_ID = "operating-aria-468908-b6"
+DATASET_ID = "alpspr_dataset_01"
+TABLE_ID = "jsonl_dump_4"
+BUCKET_NAME = "my-bucket-sysco"
+BLOB_NAME = "item-1d80b0e7-4c10-4b48-b1bd-47828f6bdc1d 1.jsonl"   # JSONL file path inside the bucket
+LOCATION = "asia-south2"
+
+def validate_and_clean(record, schema, line_num, errors):
+    """Validate and clean a single JSON record against BigQuery schema."""
+    cleaned = {}
+
+    for key, value in record.items():
+        if key not in schema:
+            continue
+
+        col_type, col_mode = schema[key]
+
+        try:
+            # Handle REPEATED fields
+            if col_mode == "REPEATED":
+                if not value:  
+                    cleaned[key] = []
+                elif isinstance(value, list):
+                    cleaned[key] = value
+                else:
+                    cleaned[key] = [value]
+                continue
+
+            # Scalars
+            if value is None:
+                cleaned[key] = None
+            elif col_type in ("INTEGER", "INT64"):
+                cleaned[key] = int(value)
+            elif col_type in ("FLOAT", "FLOAT64", "NUMERIC"):
+                cleaned[key] = float(value)
+            elif col_type == "BOOLEAN":
+                cleaned[key] = str(value).lower() in ("true", "1", "yes")
+            elif col_type == "TIMESTAMP":
+                cleaned[key] = value  # let BigQuery parse timestamp
+            else:  
+                cleaned[key] = str(value)
+
+        except (ValueError, TypeError):
+            errors.append((line_num, f"Invalid value for field '{key}': {value} (expected {col_type})"))
+            cleaned[key] = None  # fallback to None if invalid
+
+    return cleaned
+
+def main():
+    bq_client = bigquery.Client(project=PROJECT_ID)
+    storage_client = storage.Client(project=PROJECT_ID)
+
+    # Get BigQuery table schema
+    table_ref = f"{PROJECT_ID}.{DATASET_ID}.{TABLE_ID}"
+    table = bq_client.get_table(table_ref)
+    schema = {field.name: (field.field_type, field.mode) for field in table.schema}
+
+    # Read JSONL file from GCS
+    print(f"Downloading {BLOB_NAME} from bucket {BUCKET_NAME}...")
+    bucket = storage_client.bucket(BUCKET_NAME)
+    blob = bucket.blob(BLOB_NAME)
+
+    content = blob.download_as_text().splitlines()
+    if not content:
+        print("❌ The JSONL file is empty, nothing to load.")
+        return
+
+    print(f"📄 Total lines read: {len(content)}")
+
+    rows = []
+    errors = []
+
+    for idx, line in enumerate(content, start=1):
+        line = line.strip()
+        if not line:
+            continue
+
+        try:
+            record = json.loads(line)
+        except json.JSONDecodeError as e:
+            errors.append((idx, f"Invalid JSON format: {e}"))
+            continue
+
+        cleaned = validate_and_clean(record, schema, idx, errors)
+        rows.append(cleaned)
+
+    if errors:
+        print(f"\n⚠️ Validation finished with {len(errors)} issues:")
+        for line_num, msg in errors[:20]:  # show first 20 only
+            print(f"  Line {line_num}: {msg}")
+        if len(errors) > 20:
+            print(f"... and {len(errors)-20} more errors.\n")
+
+    if not rows:
+        print("❌ No valid rows found to insert.")
+        return
+
+    # Insert rows into BigQuery
+    print(f"\n🚀 Inserting {len(rows)} rows into {table_ref}...")
+    errors_bq = bq_client.insert_rows_json(table, rows)
+
+    if errors_bq:
+        print("❌ Errors occurred while inserting into BigQuery:", errors_bq)
+    else:
+        print("✅ Data has been validated and loaded into BigQuery successfully.")
+
+if __name__ == "__main__":
+    main()
