@@ -1,0 +1,133 @@
+#!/usr/bin/env python3
+import json
+from google.cloud import bigquery, storage
+from pathlib import Path
+
+PROJECT_ID = "operating-aria-468908-b6"
+DATASET_ID = "alpspr_dataset_01"
+TABLE_ID = "jsonl_dump_4"
+BUCKET_NAME = "my-bucket-sysco"
+BLOB_NAME = "item-1d80b0e7-4c10-4b48-b1bd-47828f6bdc1d 1.jsonl"
+LOCATION = "asia-south2"
+
+BATCH_SIZE = 100  # number of rows per insert
+FAILED_FILE = Path(__file__).parent / "failed_batches.jsonl"
+
+def validate_and_clean(record, schema, line_num, errors):
+    """Validate and clean a single JSON record against BigQuery schema."""
+    cleaned = {}
+
+    for key, value in record.items():
+        if key not in schema:
+            continue
+
+        col_type, col_mode = schema[key]
+
+        try:
+            # Handle REPEATED fields
+            if col_mode == "REPEATED":
+                if not value:
+                    cleaned[key] = []
+                elif isinstance(value, list):
+                    cleaned[key] = value
+                else:
+                    cleaned[key] = [value]
+                continue
+
+            # Scalars
+            if value is None:
+                cleaned[key] = None
+            elif col_type in ("INTEGER", "INT64"):
+                cleaned[key] = int(value)
+            elif col_type in ("FLOAT", "FLOAT64", "NUMERIC"):
+                cleaned[key] = float(value)
+            elif col_type == "BOOLEAN":
+                cleaned[key] = str(value).lower() in ("true", "1", "yes")
+            elif col_type == "TIMESTAMP":
+                cleaned[key] = value  # let BigQuery parse timestamp
+            else:
+                cleaned[key] = str(value)
+
+        except (ValueError, TypeError):
+            errors.append((line_num, f"Invalid value for field '{key}': {value} (expected {col_type})"))
+            cleaned[key] = None  # fallback to None if invalid
+
+    return cleaned
+
+def main():
+    bq_client = bigquery.Client(project=PROJECT_ID)
+    storage_client = storage.Client(project=PROJECT_ID)
+
+    # Get BigQuery table schema
+    table_ref = f"{PROJECT_ID}.{DATASET_ID}.{TABLE_ID}"
+    table = bq_client.get_table(table_ref)
+    schema = {field.name: (field.field_type, field.mode) for field in table.schema}
+
+    # Read JSONL file from GCS
+    print(f"Downloading {BLOB_NAME} from bucket {BUCKET_NAME}...")
+    bucket = storage_client.bucket(BUCKET_NAME)
+    blob = bucket.blob(BLOB_NAME)
+
+    content = blob.download_as_text().splitlines()
+    if not content:
+        print("❌ The JSONL file is empty, nothing to load.")
+        return
+
+    print(f"📄 Total lines read: {len(content)}")
+
+    rows = []
+    errors = []
+
+    for idx, line in enumerate(content, start=1):
+        line = line.strip()
+        if not line:
+            continue
+
+        try:
+            record = json.loads(line)
+        except json.JSONDecodeError as e:
+            errors.append((idx, f"Invalid JSON format: {e}"))
+            continue
+
+        cleaned = validate_and_clean(record, schema, idx, errors)
+        rows.append(cleaned)
+
+    if errors:
+        print(f"\n⚠️ Validation finished with {len(errors)} issues:")
+        for line_num, msg in errors[:20]:  # show first 20 only
+            print(f"  Line {line_num}: {msg}")
+        if len(errors) > 20:
+            print(f"... and {len(errors)-20} more errors.\n")
+
+    if not rows:
+        print("❌ No valid rows found to insert.")
+        return
+
+    # Insert rows in batches
+    print(f"\n🚀 Inserting {len(rows)} rows into {table_ref} in batches of {BATCH_SIZE}...")
+    failed_batches = []
+    failed_rows = []
+
+    for i in range(0, len(rows), BATCH_SIZE):
+        batch_num = i // BATCH_SIZE + 1
+        batch = rows[i:i+BATCH_SIZE]
+        errors_bq = bq_client.insert_rows_json(table, batch)
+        if errors_bq:
+            print(f"⚠️ Batch {batch_num} had errors.")
+            failed_batches.append(batch_num)
+            failed_rows.extend(batch)  # store rows from failed batch
+        else:
+            print(f"✅ Batch {batch_num} inserted successfully ({len(batch)} rows).")
+
+    # Summary
+    if failed_batches:
+        print(f"\n❌ The following batches had issues: {failed_batches}")
+        with open(FAILED_FILE, "w") as f:
+            for row in failed_rows:
+                f.write(json.dumps(row) + "\n")
+        print(f"💾 Failed rows written to {FAILED_FILE}")
+    else:
+        print("\n🎉 All batches inserted into BigQuery successfully!")
+
+if __name__ == "__main__":
+    main()
